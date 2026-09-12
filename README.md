@@ -17,6 +17,7 @@ source .venv/bin/activate       # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 streamlit run signal_atlas.py
 ```
+<img width="1600" height="759" alt="WhatsApp Image 2026-09-12 at 23 28 49" src="https://github.com/user-attachments/assets/97b86c18-8131-4465-a4e8-1c77bf6e9bea" />
 
 The app uses deterministic synthetic data, so it works immediately without an API key or database. The final caption in the interface points to the one function to replace when you have real data.
 
